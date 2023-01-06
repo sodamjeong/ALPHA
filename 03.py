@@ -1,3 +1,5 @@
+
+# 오답
 with open ('data/fruits.txt', 'r') as f:
     fruits = f.readlines()
 
